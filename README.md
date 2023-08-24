@@ -1,6 +1,6 @@
 ## Kie parent
 ### Link to Maven repository
-https://nexusoss.albs.tech/service/rest/repository/browse/kie-parent/
+https://nexusoss.albs.tech/repository/kie-parent/
 ### Versions and differences
 1. Kie parent version: `7.74.0-SNAPSHOT`
 2. `version.commons-fileupload` version: from `1.5` to `1.4`
